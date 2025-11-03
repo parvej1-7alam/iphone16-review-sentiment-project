@@ -1,7 +1,7 @@
 📱 iPhone 16 Sentiment Analysis: Flipkart Review Scraper & Analyzer
 A data science project focused on Customer Sentiment Analysis for the Apple iPhone 16 (128GB) model using publicly available reviews scraped from Flipkart.
 
-🎯 Project Objective
+🎯 Project Objective:
 As a Data Analyst at a major e-commerce platform, this project aims to gauge public perception and evaluate customer reactions towards the iPhone 16.
 
 The primary goals are to:
