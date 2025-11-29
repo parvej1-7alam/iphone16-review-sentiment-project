@@ -1,5 +1,5 @@
 # Customer Sentiment Analysis - Flipkart iPhone 16 (128GB)
-***
+
 ## 1. Project Overview
 
 This project focuses on conducting a comprehensive **Customer Sentiment Analysis** for the **iPhone 16 128GB** model, using publicly available product reviews from the Flipkart e-commerce platform.
